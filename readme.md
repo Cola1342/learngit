@@ -10,3 +10,4 @@ also for free
   + 机器学习
   + 神经网络与深度学习
   + The Practice of Programming
+  + learning for better future
