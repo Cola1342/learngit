@@ -11,3 +11,4 @@ also for free
   + 神经网络与深度学习
   + The Practice of Programming
   + learning for better future
+  + 14/8/2021, today is Valentine's Day.
