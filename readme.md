@@ -12,3 +12,4 @@ also for free
   + The Practice of Programming
   + learning for better future
   + 14/8/2021, today is Valentine's Day.
+  + 19/8/2021, add Machine Learning book.
