@@ -13,3 +13,4 @@ also for free
   + learning for better future
   + 14/8/2021, today is Valentine's Day.
   + 19/8/2021, add Machine Learning book.
+  + 23/8/2021, we believe we can achieve our goals in the future.
