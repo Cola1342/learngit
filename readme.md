@@ -16,3 +16,4 @@ also for free
   + 19/8/2021, add Machine Learning book.
   + 23/8/2021, we believe we can achieve our goals in the future.
   + 13/9/2021, fall in love with sixsix Zhang
+  + 7/10/2021, marry me?
